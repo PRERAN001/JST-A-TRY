@@ -1,6 +1,6 @@
 import FluidCursor from "./FluidCursor ";
 import { GoogleGeminiEffectDemo } from "./lib/sections/GoogleGeminiEffectDemo";
-import { DraggableCardDemo } from "./lib/sections/Imagesdemo";
+
 import { BentoGridDemo } from "./lib/sections/Griddemo";
 import { HeroScrollDemo } from "./lib/sections/Scrolldemo";
 
