@@ -1,0 +1,11 @@
+.disable-cursor .fluid-cursor {
+  display: none !important;
+}
+
+.disable-cursor {
+  cursor: grab;
+}
+
+.disable-cursor:active {
+  cursor: grabbing;
+}
